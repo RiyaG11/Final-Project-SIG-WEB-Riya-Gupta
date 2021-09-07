@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+  }
+.line{
+    width: 1200px;
+    border: 0.7px solid rgb(90, 89, 89);
+    margin-left: 100px;
+    
+}
+  .profile img{
+      width: 250px;
+      height: 250px;
+      border-radius: 50%;
+      margin-left: 600px;
+      margin-top: 30px;
+  }
+  .name{
+      margin-left: 20px
+  }
+  .info{
+    width: 1200px;
+    margin-left: 80px;
+    margin-top: 20px;
+    border-top: 0.7px solid rgb(90, 89, 89);
+    border-left: 0.7px solid rgb(90, 89, 89) ;
+  }
+  
+  .name h3{
+      color: rgb(165, 164, 164);
+      letter-spacing: 2px;
+      font-weight: bolder;
+
+  }
+  .name p{
+      color: yellowgreen;
+      letter-spacing: 3px;
+      font-size: 18px;
+      margin-top: -10px;
+  }
